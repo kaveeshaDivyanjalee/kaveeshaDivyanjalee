@@ -30,14 +30,14 @@
 - 🤝 Open to **AI Engineer, ML Engineer, and Data Science roles**
 
 </td>
-<td width="40%" align="center">
+<td width="40%" align="left">
 
 ```python
 class Kaveesha:
     role       = "AI Engineer"
     experience = "AI Engineer Intern @ SLT Digital Lab"
     education  = "BSc (Hons) IT - Data Science, SLIIT"
-    builds     = ["AI Agents using n8n",
+    builds     = ["AI Agents & Workflow Automation",
                   "RAG Pipelines",
                   "LLM Apps",
                   "ML systems"]
@@ -263,8 +263,15 @@ A **multi-agent** platform to track income and expenses, visualize spending and 
   <img src="https://streak-stats.demolab.com?user=kaveeshaDivyanjalee&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 🐍 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaveeshaDivyanjalee&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaveeshaDivyanjalee/kaveeshaDivyanjalee/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/kaveeshaDivyanjalee/kaveeshaDivyanjalee/output/github-snake.svg" alt="snake animation" />
+  </picture>
 </p>
 
 ---
@@ -272,33 +279,28 @@ A **multi-agent** platform to track income and expenses, visualize spending and 
 ## 🎯 Currently Exploring
 
 ```yaml
-🤖 Agentic AI      : Multi-agent systems, tool calling, LangGraph
-🧠 LLMs & RAG      : Advanced RAG, LLM evaluation, fine-tuning
+🤖 Agentic AI      : AI agents, multi-agent systems, workflow automation using n8n
+🧠 LLMs & RAG      : RAG pipelines, Advanced RAG, embeddings, LLM applications, LLM evaluation, fine-tuning
+📊 Machine Learning: Model development, feature engineering, model evaluation
+⚙️ AI Engineering   : FastAPI, REST APIs, AI application development
 ⚙️ LLMOps / MLOps  : Docker, FastAPI, CI/CD for AI apps
 ☁️ Cloud           : Deploying AI apps on the cloud
-📚 Deep Learning   : PyTorch, transformers
+🧠 Deep Learning   : Neural Networks, Deep Learning Fundamentals
+📊 Data Science      : Data analysis, statistical analysis, data preprocessing, data visualization
+🔄 Data Engineering  : ETL pipelines, data integration, data processing
 ```
 
 ---
 
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaveeshaDivyanjalee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</p>
-
----
-
-<p align="center">
-  <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
+  <i>"Build AI that works in the real world — not just in notebooks."</i>
 </p>
 
 <p align="center">
-  ⭐ If you like my work, consider giving my repositories a star!
+  🤖 Explore my projects, connect with me, and let's build something meaningful with AI.
 </p>
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
 </p>
-
