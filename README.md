@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Kaveesha%20Divyanjalee&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20LLMs%20%7C%20Machine%20Learning&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Kaveesha%20Divyanjalee&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20LLM%20Applications%20%7C%20Machine%20Learning&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaveesha-divyanjalee-2bb7a2313/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:kaveeshadivyanjaleej4@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/kaveeshaDivyanjalee"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=kaveeshaDivyanjalee&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" />
 </p>
@@ -22,13 +22,12 @@
 <tr>
 <td width="60%">
 
-- 🤖 **Aspiring AI Engineer** who builds **AI agents, RAG systems and LLM-powered apps**
-- 🏢 Former **AI Engineer Intern at Sri Lanka Telecom (SLT)**
-- 🎓 **4th-year undergraduate** at **Sri Lanka Institute of Information Technology (SLIIT)**
-- 📘 **BSc (Hons) in Information Technology** — specializing in **Data Science**
-- 🧠 Strong base in **Machine Learning, statistics and data engineering**
-- 🚀 I enjoy taking AI from **idea → prototype → production**
-- 🤝 Open to **AI Engineer, ML Engineer and Data Science roles**
+- 🎓 **Final-year** **BSc (Hons) in Information Technology** — specializing in **Data Science** undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)**
+- 🤖 **Aspiring AI Engineer** focused on **Agentic AI, LLM Applications, RAG systems, and intelligent automation**
+- 🏢 Completed an **AI Engineer Internship at Sri Lanka Telecom (SLT) Digital Lab**
+- 🧠 Experienced in applying **Machine Learning, Artificial Intelligence, statistics, and data engineering**
+- 🚀 Interested in building practical AI systems that integrate LLMs, APIs, automation workflows, and backend services.
+- 🤝 Open to **AI Engineer, ML Engineer, and Data Science roles**
 
 </td>
 <td width="40%" align="center">
@@ -36,12 +35,12 @@
 ```python
 class Kaveesha:
     role       = "AI Engineer"
-    experience = "AI Engineer Intern @ SLT"
+    experience = "AI Engineer Intern @ SLT Digital Lab"
     education  = "BSc (Hons) IT - Data Science, SLIIT"
-    builds     = ["AI Agents",
+    builds     = ["AI Agents using n8n",
                   "RAG Pipelines",
                   "LLM Apps",
-                  "ML Systems"]
+                  "ML systems"]
     learning   = ["LLMOps", "MLOps", "Deep Learning"]
     motto      = "Build AI that works in the real world."
 ```
@@ -54,8 +53,8 @@ class Kaveesha:
 
 ## 💼 Experience
 
-### 🏢 AI Engineer Intern — Sri Lanka Telecom (SLT)
-**📅 MONTH YEAR – MONTH YEAR** &nbsp;|&nbsp; 📍 Sri Lanka
+### 🏢 AI Engineer Intern — SLT Digital Lab
+**📅 March 2026 – September 2026** &nbsp;|&nbsp; 📍 Sri Lanka
 
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
@@ -66,13 +65,12 @@ class Kaveesha:
   <img src="https://img.shields.io/badge/Linux%20VM-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
-Worked on the **SLT BackOffice Support System**, using AI agents to automate telecom back-office operations.
+Worked on the **Blitz.ai, an AI-powered BackOffice Support Automation System**, using AI agents to automate telecom back-office operations.
 
 - 🤖 Designed and built **AI agent workflows with n8n** to automate back-office tasks
-- ⚙️ Developed a **Configuration Agent** workflow and integrated it with internal services through **REST APIs**
-- 🧪 Tested agent APIs and wrote **Postman testing documentation**
+- 🔌 Contributed to a multi-agent application involving React, FastAPI,n8n and integrations with internal services through REST APIs.
 - 🚀 Supported **deployment to a production VM** (SSH, Linux)
-- 🤝 Worked with engineers in an industry team using Git-based workflows
+- 🤝 Worked with engineers in an industry team.
 
 ---
 
