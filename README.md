@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+AI+Engineer+%F0%9F%A4%96;Former+AI+Engineer+Intern+%40+SLT;Building+AI+Agents%2C+RAG+%26+LLM+Apps;Data+Science+Undergraduate+%40+SLIIT;From+model+to+production+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+AI+Engineer+%F0%9F%A4%96;Data+Science+Undergraduate+%40+SLIIT;Building+AI+Agents%2C+RAG+%26+LLM+Apps;Former+AI+Engineer+Intern+%40+SLT;From+model+to+production+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -96,7 +96,7 @@ An AI-powered code review tool. Paste any GitHub URL — it finds **bugs, securi
 - 📝 Returns a detailed report with **fix suggestions**
 
 👉 [**View Repository**](https://github.com/kaveeshaDivyanjalee/rag-github-analyzer)
-
+🌐 [**Live Application**](https://rag-app-analyzer-app.streamlit.app/)
 ---
 
 ### 📉 Customer Churn Prediction System — End-to-End ML Application
@@ -118,7 +118,7 @@ Helps businesses **find at-risk customers early** and reduce churn with data-dri
 - 📈 Business layer: feature importance, **Low / Medium / High risk segments** and retention recommendations
 
 👉 [**View Repository**](https://github.com/kaveeshaDivyanjalee/customer-churn-prediction)
-
+🌐 [**Live Application**](https://customer-churn-prediction-bczicccnktkymsfewgwurk.streamlit.app/)
 ---
 
 ### 🛡️ SecureBank AI — ML-Powered Credit Card Fraud Detection
@@ -138,7 +138,7 @@ A machine learning system that **detects suspicious transactions in real time** 
 - 🏦 Secure, scalable architecture designed for banking use
 
 👉 [**View Repository**](https://github.com/kaveeshaDivyanjalee/SecureBank-AI-ML-powered-Credit-Card-Fraud-Detection-System)
-
+🌐 [**Live Application**](https://y3s1-credit-card-fraud-detection-4e9nd3bjgpdx5ggezynnbm.streamlit.app/Make_Transaction)
 ---
 
 ### 💰 SmartBudget — Agentic AI Household Finance Platform
@@ -287,7 +287,7 @@ A **multi-agent** platform to track income and expenses, visualize spending and 
 ☁️ Cloud           : Deploying AI apps on the cloud
 🧠 Deep Learning   : Neural Networks, Deep Learning Fundamentals
 📊 Data Science      : Data analysis, statistical analysis, data preprocessing, data visualization
-🔄 Data Engineering  : ETL pipelines, data integration, data processing
+🔄 Data Engineering  : ETL pipelines, data integration, data processing, data warehousing
 ```
 
 ---
