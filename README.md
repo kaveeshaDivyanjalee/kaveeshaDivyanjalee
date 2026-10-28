@@ -70,6 +70,7 @@ Worked on the **Blitz.ai, an AI-powered BackOffice Support Automation System**, 
 - 🤖 Designed and built **AI agent workflows with n8n** to automate back-office tasks
 - 🔌 Contributed to a multi-agent application involving React, FastAPI,n8n and integrations with internal services through REST APIs.
 - 🚀 Supported **deployment to a production VM** (SSH, Linux)
+- 🔐 Worked with Microsoft Entra ID and MSAL to support **Microsoft authentication** in the application.
 - 🤝 Worked with engineers in an industry team.
 
 ---
