@@ -96,7 +96,7 @@ An AI-powered code review tool. Paste any GitHub URL — it finds **bugs, securi
 - 🔧 **GitPython** clones and reads repositories automatically
 - 📝 Returns a detailed report with **fix suggestions**
 
-👉 [**View Repository**](https://github.com/kaveeshaDivyanjalee/rag-github-analyzer)
+👉 [**View Repository**](https://github.com/kaveeshaDivyanjalee/rag-github-analyzer) &nbsp;|&nbsp;
 🌐 [**Live Application**](https://rag-app-analyzer-app.streamlit.app/)
 
 ---
@@ -119,7 +119,7 @@ Helps businesses **find at-risk customers early** and reduce churn with data-dri
 - 🖥️ **Streamlit app** for single-customer predictions and **batch CSV analysis**
 - 📈 Business layer: feature importance, **Low / Medium / High risk segments** and retention recommendations
 
-👉 [**View Repository**](https://github.com/kaveeshaDivyanjalee/customer-churn-prediction)
+👉 [**View Repository**](https://github.com/kaveeshaDivyanjalee/customer-churn-prediction) &nbsp;|&nbsp;
 🌐 [**Live Application**](https://customer-churn-prediction-bczicccnktkymsfewgwurk.streamlit.app/)
 
 ---
@@ -140,7 +140,7 @@ A machine learning system that **detects suspicious transactions in real time** 
 - 🔄 **End-to-end pipeline** — training, evaluation and visualization
 - 🏦 Secure, scalable architecture designed for banking use
 
-👉 [**View Repository**](https://github.com/kaveeshaDivyanjalee/SecureBank-AI-ML-powered-Credit-Card-Fraud-Detection-System)
+👉 [**View Repository**](https://github.com/kaveeshaDivyanjalee/SecureBank-AI-ML-powered-Credit-Card-Fraud-Detection-System) &nbsp;|&nbsp;
 🌐 [**Live Application**](https://y3s1-credit-card-fraud-detection-4e9nd3bjgpdx5ggezynnbm.streamlit.app/Make_Transaction)
 
 ---
