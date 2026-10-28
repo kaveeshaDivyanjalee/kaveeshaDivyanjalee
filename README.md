@@ -98,6 +98,7 @@ An AI-powered code review tool. Paste any GitHub URL — it finds **bugs, securi
 
 👉 [**View Repository**](https://github.com/kaveeshaDivyanjalee/rag-github-analyzer)
 🌐 [**Live Application**](https://rag-app-analyzer-app.streamlit.app/)
+
 ---
 
 ### 📉 Customer Churn Prediction System — End-to-End ML Application
@@ -120,6 +121,7 @@ Helps businesses **find at-risk customers early** and reduce churn with data-dri
 
 👉 [**View Repository**](https://github.com/kaveeshaDivyanjalee/customer-churn-prediction)
 🌐 [**Live Application**](https://customer-churn-prediction-bczicccnktkymsfewgwurk.streamlit.app/)
+
 ---
 
 ### 🛡️ SecureBank AI — ML-Powered Credit Card Fraud Detection
@@ -140,6 +142,7 @@ A machine learning system that **detects suspicious transactions in real time** 
 
 👉 [**View Repository**](https://github.com/kaveeshaDivyanjalee/SecureBank-AI-ML-powered-Credit-Card-Fraud-Detection-System)
 🌐 [**Live Application**](https://y3s1-credit-card-fraud-detection-4e9nd3bjgpdx5ggezynnbm.streamlit.app/Make_Transaction)
+
 ---
 
 ### 💰 SmartBudget — Agentic AI Household Finance Platform
@@ -280,13 +283,13 @@ A **multi-agent** platform to track income and expenses, visualize spending and 
 ## 🎯 Currently Exploring
 
 ```yaml
-🤖 Agentic AI      : AI agents, multi-agent systems, workflow automation using n8n
-🧠 LLMs & RAG      : RAG pipelines, Advanced RAG, embeddings, LLM applications, LLM evaluation, fine-tuning
-📊 Machine Learning: Model development, feature engineering, model evaluation
-⚙️ AI Engineering   : FastAPI, REST APIs, AI application development
-⚙️ LLMOps / MLOps  : Docker, FastAPI, CI/CD for AI apps
-☁️ Cloud           : Deploying AI apps on the cloud
-🧠 Deep Learning   : Neural Networks, Deep Learning Fundamentals
+🤖 Agentic AI        : AI agents, multi-agent systems, workflow automation using n8n
+🧠 LLMs & RAG        : RAG pipelines, Advanced RAG, embeddings, LLM applications, LLM evaluation, fine-tuning
+📊 Machine Learning  : Model development, feature engineering, model evaluation
+⚙️ AI Engineering    : FastAPI, REST APIs, AI application development
+⚙️ LLMOps / MLOps    : Docker, FastAPI, CI/CD for AI apps
+☁️ Cloud             : Deploying AI apps on the cloud
+🧠 Deep Learning     : Neural Networks, Deep Learning Fundamentals
 📊 Data Science      : Data analysis, statistical analysis, data preprocessing, data visualization
 🔄 Data Engineering  : ETL pipelines, data integration, data processing, data warehousing
 ```
